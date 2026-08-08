@@ -9,25 +9,6 @@
 
 ---
 
-## 💻 System._Info()
-
-```yaml
-> whoami
-  Keyl (aka 2amkeyl)
-
-> mission
-  Exploring the digital realm, automating the boring stuff,
-  and crafting elegant scripts.
-
-> current_focus
-  ["Python", "Discord.py", "Automation Bots"]
-
-> status
-  Online 🟢
-```
-
----
-
 ## ⚡ Tech_Stack
 
 <p align="left">
@@ -41,12 +22,7 @@
 
 ---
 
-## 📊 GitHub_Stats()
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=2amkeyl&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&border_color=00FF9C&hide_border=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2amkeyl&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9&border_color=00FF9C&hide_border=false" />
-</p>
+## 🔥 GitHub_Streak()
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2amkeyl&theme=dark&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border=00FF9C" />
