@@ -33,10 +33,5 @@
 ## 🌐 Connect_With_Me
 
 <p align="left">
-  <a href="https://discord.com/users/114759252569604822" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0D1117" />
-  </a>
-  <a href="https://steamcommunity.com/id/hiimkeyl" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-0D1117?style=for-the-badge&logo=steam&logoColor=66c0f4&labelColor=0D1117" />
-  </a>
+<a href="https://discord.com/users/114759252569604822" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0D1117" /></a> <a href="https://steamcommunity.com/id/hiimkeyl" target="_blank"><img src="https://img.shields.io/badge/Steam-0D1117?style=for-the-badge&logo=steam&logoColor=66c0f4&labelColor=0D1117" /></a> <a href="https://instagram.com/2amkeyl" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" /></a>
 </p>
